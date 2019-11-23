@@ -6,7 +6,7 @@
     @steamscraperOwnInput.py
     Lets the user enter any name via input. (Seperated by "," example: ryan,heated,low,fred)
 
-#required
+# required
   beautifulsoup4
     pip install bs4
   urllib.request
