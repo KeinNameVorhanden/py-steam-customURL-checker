@@ -8,6 +8,6 @@
 
 # required
   beautifulsoup4
-    pip install bs4
+        pip install bs4
   urllib.request
-    pip install urllib.request
+        pip install urllib.request
